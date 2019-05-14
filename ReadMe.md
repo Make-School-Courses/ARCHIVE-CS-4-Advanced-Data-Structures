@@ -1,4 +1,6 @@
-# CS 4: Advanced Data Structures & Algorithms
+# ARCHIVE - CS 4: Advanced Data Structures & Algorithms
+
+## NOTE: This repo is no longer maintained
 
 ## Course Schedule
 
